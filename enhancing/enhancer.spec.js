@@ -40,4 +40,4 @@ describe("enhancer", () => {
             .toStrictEqual({name: "name 4", durability: 66, enhancement: 17});
         })
     })
-})
+});
